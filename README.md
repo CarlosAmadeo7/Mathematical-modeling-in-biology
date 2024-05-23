@@ -1,1 +1,1 @@
-# Mathematical-modeling-in-biology
+# Mathematical modeling in biology
