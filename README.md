@@ -1,4 +1,5 @@
 # Mathematical modeling in biology
+## Description
 1. This repository is dedicated to the marvelous world of mathematics and its influence on the field of Biology.
 2. Mathematical modeling is a process by which a mathematical formulation describes a real-world problem.
 3. As a master's student interested in mathematical modeling, I understand how modeling different biological systems can be challenging but truly useful.
