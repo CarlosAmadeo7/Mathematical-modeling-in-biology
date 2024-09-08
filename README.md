@@ -7,3 +7,4 @@
 5. The repository contains 3 folders: Scripts, Results, and plots.
 6. The Scripts folder stores all the custom design scripts and information related to each biological topic, the Results folder contains the output/data of the scripts, and the Plots folder contains any images generated from the scripts commands.
 
+![alt text]("C:\Users\amade\Documents\UofSC\Bioinformatics\Github\Mathematical modeling\plots\Deterministic mRNA and protein abundance over time.png")
